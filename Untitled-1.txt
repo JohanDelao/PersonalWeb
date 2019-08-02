@@ -1,0 +1,71 @@
+ <!-- start of section1 -->
+            <div id= "aboutMe2" class="cardbottom">
+              </div>
+                <div class="container">
+                    <div class="row">
+                      <div class="col-4" style="margin-right: 80px">
+                          <div class="card-body">
+                              <h5 class="card-title text-center" style="color: white ; font-size: 25px ; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif">About Me</h5>
+                            </div>
+                            <div>
+                                <img src="Johan.jpg" style="margin-bottom: 20px" height="500px" width="400px" id="cardimgtop" alt="...">
+                            </div>
+                      </div>
+                      <div class="col-7">
+                          <div class="card text-white bg-dark mb-3">
+                              <div class="card-body">
+                                <h5 class="card-title">Dark card title</h5>
+                                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                              </div>
+                              <button onclick="myFunction()">Dont see Johan</button>
+                            </div>
+                      </div>
+                    </div>
+                  </div>
+                  <!-- end of section 1 -->
+
+                   <!-- start of section2 -->
+                  <div id="education" class="educationSection">
+                  <div class="container">
+                      <div class="row">
+                        <div class="col-4" style="margin-right: 40px">
+                            <div class="card-body">
+                                <h5 class="card-title text-center" style="color:black ; font-size: 25px ; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; margin-top: 40px">Education</h5>
+                              </div>
+                              <div>
+                                  <img src= "Saunders-logo.png" style="margin-bottom: 20px" height="400px" width="400px" class="cardimgtop" alt="...">
+                              </div>
+                        </div>
+                        <div class="col-7">
+                            <div class="card text-white bg-secondary mb-3" style="margin-top: 100px">
+                                <div class="card-body">
+                                  <p class="card-text" style="color: black">Johan Delao attends Saunders Trade and Technical Highschool.</p>
+                                </div>
+                              </div>
+                        </div>
+                      </div>
+                    </div>
+                    </div>
+                    <!-- end of section2 -->
+
+                     <div id="skills" class="skillsSection">
+                        <div class="container">
+                            <div class="row">
+                              <div class="col-4" style="margin-right: 40px">
+                                  <div class="card-body">
+                                      <h5 class="card-title text-center" style="color:white ; font-size: 25px ; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ; margin-top: 40px">Skills</h5>
+                                    </div>
+                                    <div>
+                                        <img src= "skills.jfif" style="margin-bottom: 20px" height="300px" width="380px" class="cardimgtop" alt="...">
+                                    </div>
+                              </div>
+                              <div class="col-7">
+                                  <div class="card text-white bg-secondary mb-3" style="margin-top: 100px">
+                                      <div class="card-body">
+                                        <p class="card-text" style="color: black">Johan Delao possesses the skills to code in the languages of HTML, Javascript and CSS.</p>
+                                      </div>
+                                    </div>
+                              </div>
+                            </div>
+                          </div>
+                          </div>
